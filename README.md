@@ -1,2 +1,2 @@
 # Coursera-s-Deep-Learning
-Exercises for Coursera's Deep Learning course, taught by Andrew Ng.
+Exercises for Coursera's Deep Learning course, taught by Andrew Ng. For reference purpose only.  
